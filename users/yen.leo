@@ -60,31 +60,31 @@
 <v t="leo.20171114220429.1"><vh>內容</vh></v>
 </v>
 </v>
-<v t="yen.20170108171733.16"><vh>w2</vh>
+<v t="yen.20170108171733.16" a="E"><vh>w2</vh>
 <v t="yen.20170108171733.17"><vh>內容</vh></v>
 </v>
-<v t="leo.20170911090822.1"><vh>w3</vh>
+<v t="leo.20170911090822.1" a="E"><vh>w3</vh>
 <v t="leo.20170911090822.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20170911091459.1"><vh>w4</vh>
+<v t="leo.20170911091459.1" a="E"><vh>w4</vh>
 <v t="leo.20170911091508.1" a="E"><vh>Python 與 C/C++</vh>
 <v t="leo.20170911091508.2"><vh>程式學習順序</vh></v>
 </v>
 <v t="leo.20170911091622.1" a="E"><vh>如何學好 Python3</vh>
 <v t="leo.20170911091622.2"><vh>Python3 學習</vh></v>
 </v>
-<v t="leo.20170911100148.1"><vh>如何學習 CAD</vh>
+<v t="leo.20170911100148.1" a="E"><vh>如何學習 CAD</vh>
 <v t="leo.20170911100148.2"><vh>CAD 學習</vh></v>
 </v>
 <v t="leo.20170911100657.1"><vh>MCADP 實習</vh>
 <v t="leo.20170911100657.2"><vh>電腦輔助設計實習</vh></v>
 </v>
 </v>
-<v t="leo.20170911093601.1"><vh>W5</vh>
+<v t="leo.20170911093601.1" a="E"><vh>W5</vh>
 <v t="leo.20170911093601.2" a="E"><vh>隨身系統練習</vh>
 <v t="leo.20170911093601.3"><vh>Python 3.6 程式環境</vh></v>
 </v>
-<v t="leo.20170911093601.4"><vh>練習 Fossil SCM</vh>
+<v t="leo.20170911093601.4" a="E"><vh>練習 Fossil SCM</vh>
 <v t="leo.20170911093601.5"><vh>了解 Fossil SCM</vh></v>
 </v>
 <v t="leo.20170913103008.1"><vh>Fossil SCM 功能說明</vh>
@@ -430,37 +430,25 @@ g.es("admin pelican Github 執行完畢")
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20171114220201.1">第一週
+<t tx="leo.20171114220201.1">W10-12
 
-準備筆記本、隨身碟與耳機
+隨身系統客製化,開啟時直接打開Leo
 
-先在近端運作, 然後同桌電腦, 最後區網與雲端
+用Eric6建立基本的計算機程式
 
-了解機械設計本質, 六種表達與如何培養創造力
-
-工程師有那六種表達方式?
-
-口語,文字,2D,3D,數學理論,實作表達
-
-創造力的三個基本要素
-
-自學力,執行力,想像力</t>
+在github建立自己的倉儲、協同者</t>
 <t tx="leo.20171114220425.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20171114220429.1">第二週
+<t tx="leo.20171114220429.1">W13-16
 
-課程介紹
+學習及了解計算機程式的邏輯與概念
 
-建立 Fossil SCM 伺服器
+期末分組報告
 
-建立 Fossil SCM 倉儲
-
-利用 Wiki 紀錄學習資料
-
-將網誌放入 Files 資料區</t>
+</t>
 <t tx="leo.20171116134718.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
