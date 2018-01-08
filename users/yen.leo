@@ -56,9 +56,6 @@
 <v t="leo.20171114220130.1" a="E"><vh>Part 1</vh>
 <v t="leo.20171114220201.1"><vh>內容</vh></v>
 </v>
-<v t="leo.20171114220425.1" a="E"><vh>Part 2</vh>
-<v t="leo.20171114220429.1"><vh>內容</vh></v>
-</v>
 </v>
 <v t="yen.20170108171733.16" a="E"><vh>w2</vh>
 <v t="yen.20170108171733.17"><vh>內容</vh></v>
@@ -170,13 +167,9 @@
 
 						
 </t>
-<t tx="leo.20170911090822.2">第三週
+<t tx="leo.20170911090822.2">自評成績
 
-課程介紹
-如何使用CMD將檔案推送至倉儲
-學習Fossil 語法
-
-</t>
+65</t>
 <t tx="leo.20170911091459.1">&lt;section&gt;
     @others
 &lt;/section&gt;
@@ -193,11 +186,7 @@
 
 						
 </t>
-<t tx="leo.20170911091508.2">W4
-課程介紹
-利用 Python3 與 PyQt5 建立一個簡單的計算器
-會使用基本的 Python3 程式語法
-了解 Python3 物件導向與視窗事件驅動程式的基本概念
+<t tx="leo.20170911091508.2">投影片結束
 
 </t>
 <t tx="leo.20170911091622.1">&lt;section data-markdown&gt;
@@ -430,25 +419,13 @@ g.es("admin pelican Github 執行完畢")
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20171114220201.1">W10-12
+<t tx="leo.20171114220201.1">#W10-12
 
 隨身系統客製化,開啟時直接打開Leo
 
 用Eric6建立基本的計算機程式
 
 在github建立自己的倉儲、協同者</t>
-<t tx="leo.20171114220425.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20171114220429.1">W13-16
-
-學習及了解計算機程式的邏輯與概念
-
-期末分組報告
-
-</t>
 <t tx="leo.20171116134718.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -649,13 +626,12 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="yen.20170108171733.17"># W2
+<t tx="yen.20170108171733.17">#W13-16
 
-課程介紹
-建立 Fossil SCM 伺服器
-建立 Fossil SCM 倉儲
-利用 Wiki 紀錄學習資料
-將網誌與簡報檔案放入 Files 資料區
+學習及了解計算機程式的邏輯與概念
+
+期末分組報告
+
 
 </t>
 <t tx="yen.20170108171733.2">@language python
